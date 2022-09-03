@@ -16,7 +16,7 @@
   align-items: center;
   justify-content: center;
   border-radius: 1em;
-  width: 50%;
+  width: 500px;
   height: auto;
   padding: 1em;
   box-shadow: 10px 10px 93px 44px rgba(53,177,217,0.75);
@@ -52,11 +52,6 @@
 }
 
 @media screen and (max-width:900px){
-  .container{
-    width: 50%;
-  }
-}
-@media screen and (max-width:1920px){
   .container{
     width: 50%;
   }
